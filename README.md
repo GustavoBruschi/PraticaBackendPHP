@@ -11,7 +11,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 - ### Fabricio Ferreira 
 #### RA: 202103727778
-- ### Vunícius Ernande Batista Gonçalves 
+- ### Vínicius Ernande Batista Gonçalves 
 #### RA: 202104545991
 - ### Gustavo Bruschi Coelho
 #### RA: 202102668581
