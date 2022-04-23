@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <title> Conversor de Temperatura </title>
+    </head>
+    <body>
+        <h1>Conversor Temperatura</h1>
+        <li>Selecione C para converter Celsius para Fahrenheit</li>
+        <li>Selecione F para converter temperatura Fahrenheit para Celsius </li>
+        <form method="post">
+            <input type="text" name="temperatura">
+            <label>C</label>
+            <input type="radio" name="unidade" value="C">
+            <label>F</label>
+            <input type="radio" name="unidade" value="F">
+            <input type="button" onclick="calcularTemp()" value="CONVERTER">
+        </form>
+        <script src="main.js"></script>
+    </body>
+</html>
